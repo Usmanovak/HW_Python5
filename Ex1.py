@@ -15,4 +15,4 @@ for i in range(1, count_nums + 1):
 print(sorted(list_1))
 
 # number = first_element + (count_nums - 1) * step
-# print(sorted([list_1.append([number for i in range (1, count_nums+1) if count_nums>0])]))
+# print(sorted([number for i in range (1, count_nums+1)]))
